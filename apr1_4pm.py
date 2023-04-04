@@ -1,1 +1,1 @@
-# Find the 2nd largest number in an array
+# Find the 2nd largest number in an array2.
